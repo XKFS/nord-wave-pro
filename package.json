@@ -1,0 +1,21 @@
+{
+  "name": "nord-wave-pro",
+  "displayName": "nord wave pro",
+  "description": "Upgraded and more polished version of Nord Wave",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nord Wave Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nord Wave Pro-color-theme.json"
+      }
+    ]
+  }
+}
