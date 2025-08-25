@@ -1,8 +1,9 @@
 {
   "name": "nord-wave-pro",
-  "displayName": "nord wave pro",
+  "displayName": "Nord Wave Pro",
   "description": "Upgraded and more polished version of Nord Wave",
-  "version": "0.0.3",
+  "publisher": "xkfs",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.103.0"
   },
@@ -16,6 +17,9 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Nord Wave Pro-color-theme.json"
       }
-    ]
+    ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/XKFS/nord-wave-pro"}
   }
 }
