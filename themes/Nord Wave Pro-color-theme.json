@@ -11,12 +11,12 @@
 		"button.background": "#616161",
 		"debugToolBar.background": "#212121",
 		"diffEditor.insertedTextBackground": "#c3e88d15",
-		"diffEditor.removedTextBackground": "#BF616A",
+		"diffEditor.removedTextBackground": "#bf616add",
 		"dropdown.background": "#212121",
 		"dropdown.border": "#ffffff25",
 		"editor.background": "#212121",
-		"editor.foreground": "#d8dee9ff",
-		"editor.lineHighlightBackground": "#00000050",
+		"editor.foreground": "#e5f5ffdd",
+		"editor.lineHighlightBackground": "#2f2f2f50",
 		"editor.selectionBackground": "#61616150",
 		"editor.selectionHighlightBackground": "#ffcc0020",
 		"editorBracketMatch.background": "#8882",
@@ -30,7 +30,7 @@
 		"editorGutter.modifiedBackground": "#ebcb8b",
 		"editorHoverWidget.background": "#212121",
 		"editorHoverWidget.border": "#ffffff10",
-		"editorIndentGuide.background": "#42424270",
+		"editorIndentGuide.background1": "#2f2f2f",
 		"editorLineNumber.foreground": "#4f4f4f",
 		"editorLink.activeForeground": "#eeffff",
 		"editorMarkerNavigation.background": "#eeffff05",
@@ -103,7 +103,7 @@
 		"tab.border": "#2f2f2f",
 		"tab.hoverBackground": "#42424210",
 		"tab.inactiveBackground": "#212121",
-		"tab.inactiveForeground": "#616161",
+		"tab.inactiveForeground": "#ffffff70",
 		"tab.unfocusedActiveBorder": "#4a4a4a",
 		"tab.unfocusedActiveForeground": "#eeffff",
 		"terminal.ansiBlack": "#3b4252",
@@ -136,7 +136,6 @@
 		{
 			"settings": {
 				"foreground": "#d8dee9ff",
-				"background": "#2e3440ff"
 			}
 		},
 		{
@@ -237,7 +236,6 @@
 			"scope": "invalid.deprecated",
 			"settings": {
 				"foreground": "#D8DEE9",
-				"background": "#EBCB8B"
 			}
 		},
 		{
@@ -245,7 +243,6 @@
 			"scope": "invalid.illegal",
 			"settings": {
 				"foreground": "#D8DEE9",
-				"background": "#BF616A"
 			}
 		},
 		{
