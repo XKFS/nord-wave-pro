@@ -3,13 +3,20 @@
   "displayName": "Nord Wave Pro",
   "description": "Polished version of Nord Wave",
   "publisher": "xkfs",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.103.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "nwp.png",
+  "homepage": "https://github.com/XKFS/nord-wave-pro",
+  "bugs": {
+    "url": "https://github.com/XKFS/nord-wave-pro/issues"
+  },
+  "license": "MIT",
+  "keywords": ["nord", "theme", "dark", "vs-code", "color-theme", "nord-wave", "nord-wave-pro", "xkfs", "nordwave", "nordwavepro", "minimal", "clean", "simple", "modern", "dark-theme", "vscode-theme"],
   "contributes": {
     "themes": [
       {
@@ -22,5 +29,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/XKFS/nord-wave-pro"
+  },
+  "galleryBanner": {
+    "color": "#2d2d2d",
+    "theme": "dark"
   }
 }
