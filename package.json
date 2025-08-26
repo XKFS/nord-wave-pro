@@ -17,9 +17,10 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Nord Wave Pro-color-theme.json"
       }
-    ],
+    ]
+  },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/XKFS/nord-wave-pro"}
+    "type": "git",
+    "url": "https://github.com/XKFS/nord-wave-pro"
   }
 }
