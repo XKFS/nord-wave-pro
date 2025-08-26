@@ -8,6 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added links
 - Photo added
+- License added
 
 ## [0.0.5]
 
