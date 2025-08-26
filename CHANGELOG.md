@@ -4,6 +4,11 @@ All notable changes to the "nord-wave-pro" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.5]
+
+- Updated Readme
+- Added Screenshot
+
 ## [0.0.4]
 
 - package.json updated

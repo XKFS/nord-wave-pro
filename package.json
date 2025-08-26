@@ -1,9 +1,9 @@
 {
   "name": "nord-wave-pro",
   "displayName": "Nord Wave Pro",
-  "description": "Upgraded and more polished version of Nord Wave",
+  "description": "Polished version of Nord Wave",
   "publisher": "xkfs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.103.0"
   },
