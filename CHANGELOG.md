@@ -4,6 +4,14 @@ All notable changes to the "nord-wave-pro" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.7]
+- Side bar and tab background darkened
+- "tab.hoverBackground" added
+- "button.foreground" added
+- Comment color improved
+- Widget shadow improved
+- More balanced Sidebar and Input color
+
 ## [0.0.6]
 
 - Added links
