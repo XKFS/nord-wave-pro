@@ -3,7 +3,7 @@
   "displayName": "Nord Wave Pro",
   "description": "Polished version of Nord Wave",
   "publisher": "xkfs",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.103.0"
   },
